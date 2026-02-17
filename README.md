@@ -16,4 +16,3 @@ This interactive report enables stakeholders to identify top-performing airlines
 - Data Modeling
 
 ![Dashboard Preview](dashboard_image/dashboard_preview.png)
-
