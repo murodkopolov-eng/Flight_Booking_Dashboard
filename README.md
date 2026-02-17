@@ -14,3 +14,5 @@ This interactive report enables stakeholders to identify top-performing airlines
 - DAX
 - CSV Data
 - Data Modeling
+
+![Dashboard Preview](dashboard_preview.png)
