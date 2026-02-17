@@ -8,3 +8,9 @@ The dashboard monitors key metrics such as total bookings, total revenue, and av
 
 This interactive report enables stakeholders to identify top-performing airlines, understand customer payment preferences, and evaluate revenue distribution across travel classes to support strategic decision-making.
 
+## Technologies Used
+
+- Power BI
+- DAX
+- CSV Data
+- Data Modeling
