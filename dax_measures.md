@@ -8,7 +8,7 @@ DAX Example:
 
 Average Age = AVERAGE(flight_bookings_sample[Passenger_Age])
 
-- Insight:
+-- Insight:
 
 Shows the typical age of travelers.
 
